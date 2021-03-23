@@ -4,3 +4,4 @@ yarn-error.log
 **/*.js
 **/*.js.map
 !wallaby.js
+!dist/*.js
